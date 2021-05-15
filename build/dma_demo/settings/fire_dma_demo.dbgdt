@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>194</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    <StaticWatch><expressions><item>BufferData</item><item>BufferData1</item><item>Left_Pulse</item><item>Right_Pulse</item><item>y_position</item><item>Direction_Control_Out</item><item>Direction_kD</item><item>Speed_Error_R</item><item>Speed_Set</item><item>Speed_Set_L</item><item>Speed_Set_R</item><item>pianyi</item><item>move</item><item>Is_Finish</item><item>Speed_Ki</item><item>Speed_Kd</item><item>c6_in</item><item>b0_in</item><item>dangerous</item><item>dangerous_copy</item><item>Direction_Control_Out</item><item>Direction_kD</item><item>Direction_P</item><item>Speed_Ki</item><item>Speed_Kp</item><item>Speed_Control_Out_L</item><item>Speed_Control_Out_R</item><item>Speed_Kd</item><item>Left_Pulse</item><item>Speed_Set_L</item><item>Speed_Set_R</item><item>Right_Pulse</item><item>red_right_flag</item><item>sudu</item><item>pianyi</item><item>y_position</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>196</item><item>150</item><item>100</item><item>198</item></col-widths><PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows></StaticWatch><WATCH_1><expressions><item>Red_Pulse_Array</item><item>jiana</item><item>Jiansu</item><item>jian2</item><item>jian1</item><item>Error_LastA</item><item>zaf</item><item>zal3</item><item>zar3</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>165</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></WATCH_1><Select-Ambiguous-Definitions><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Select-Ambiguous-Definitions><Find-All-References><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-All-References><WATCH_2><expressions><item>BufferData</item><item>BufferData1</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></WATCH_2></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-32096-21556</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-31573-21566</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab>
+            <Identity>TabID-20825-21563</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10076-21559</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>fire_dma_demo</ExpandedNode><ExpandedNode>fire_dma_demo/app</ExpandedNode><ExpandedNode>fire_dma_demo/common</ExpandedNode><ExpandedNode>fire_dma_demo/drivers</ExpandedNode><ExpandedNode>fire_dma_demo/drivers/FTM.c</ExpandedNode><ExpandedNode>fire_dma_demo/header</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-24157-20213</Identity><TabName>Live Watch</TabName><Factory>StaticWatch</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\include.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\delay\delay.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1266</SelStart><SelEnd>1266</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\PIT\PIT.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>807</SelStart><SelEnd>815</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\adc\adc.c</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>895</SelStart><SelEnd>895</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\arm_cm4.c</Filename><XPos>0</XPos><YPos>111</YPos><SelStart>3413</SelStart><SelEnd>3413</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\arm_cm4.h</Filename><XPos>0</XPos><YPos>20</YPos><SelStart>962</SelStart><SelEnd>962</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\uart\uart.c</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>1010</SelStart><SelEnd>1010</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\exti\exti.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1135</SelStart><SelEnd>1135</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\exti\exti.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>639</SelStart><SelEnd>639</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\common\common.h</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>861</SelStart><SelEnd>861</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\vectors.c</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>2330</SelStart><SelEnd>2330</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\vectors.h</Filename><XPos>0</XPos><YPos>226</YPos><SelStart>2595</SelStart><SelEnd>2595</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\common\io.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>393</SelStart><SelEnd>393</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\GetBound.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>120</SelStart><SelEnd>120</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\lptmr\lptmr.c</Filename><XPos>0</XPos><YPos>73</YPos><SelStart>2991</SelStart><SelEnd>2991</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\dma\dma.c</Filename><XPos>0</XPos><YPos>84</YPos><SelStart>4571</SelStart><SelEnd>4571</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\PIT\PIT.h</Filename><XPos>0</XPos><YPos>8</YPos><SelStart>723</SelStart><SelEnd>723</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\dma\dma.h</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>3083</SelStart><SelEnd>3087</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\platforms\k60_fire.h</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1476</SelStart><SelEnd>1476</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\mcg\mcg.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>737</SelStart><SelEnd>737</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\fire_drivers_cfg.h</Filename><XPos>0</XPos><YPos>1495</YPos><SelStart>3776</SelStart><SelEnd>3776</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\GetSpeed.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>109</SelStart><SelEnd>109</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\gpio\gpio.h</Filename><XPos>0</XPos><YPos>47</YPos><SelStart>2077</SelStart><SelEnd>2077</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\init.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>65</SelStart><SelEnd>65</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\isr.h</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>1606</SelStart><SelEnd>1606</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\GetSpeed.c</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>947</SelStart><SelEnd>947</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\init.c</Filename><XPos>0</XPos><YPos>117</YPos><SelStart>4370</SelStart><SelEnd>4370</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\isr.c</Filename><XPos>0</XPos><YPos>303</YPos><SelStart>6736</SelStart><SelEnd>6736</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\Control.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>252</SelStart><SelEnd>252</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\common.h</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>2229</SelStart><SelEnd>2229</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\FTM\FTM.c</Filename><XPos>0</XPos><YPos>406</YPos><SelStart>13784</SelStart><SelEnd>13784</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\mcg\mcg.c</Filename><XPos>0</XPos><YPos>108</YPos><SelStart>3412</SelStart><SelEnd>3412</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\FTM\FTM.h</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>1591</SelStart><SelEnd>1608</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\gpio\gpio.c</Filename><XPos>0</XPos><YPos>96</YPos><SelStart>3448</SelStart><SelEnd>3448</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\main.c</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>1489</SelStart><SelEnd>1489</SelEnd></Tab><ActiveTab>34</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\gpio\gpio_cfg.h</Filename><XPos>0</XPos><YPos>458</YPos><SelStart>20320</SelStart><SelEnd>20320</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\sysinit.c</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>1406</SelStart><SelEnd>1406</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\headers\MK60DZ10.h</Filename><XPos>0</XPos><YPos>11150</YPos><SelStart>631211</SelStart><SelEnd>631211</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\GetBound.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>366</SelStart><SelEnd>366</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\app\Control.c</Filename><XPos>0</XPos><YPos>244</YPos><SelStart>6920</SelStart><SelEnd>6920</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00de01b8><key>iaridepm.enu1</key></Toolbar-00de01b8></Sizes></Row0><Row1><Sizes><Toolbar-0e665ca8><key>armjlink.enu1</key></Toolbar-0e665ca8><Toolbar-0e665d70><key>debuggergui.enu1</key></Toolbar-0e665d70></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>494</Bottom><Right>285</Right><x>-2</x><y>-2</y><xscreen>279</xscreen><yscreen>2460</yscreen><sizeHorzCX>204246</sizeHorzCX><sizeHorzCY>3586006</sizeHorzCY><sizeVertCX>210102</sizeVertCX><sizeVertCY>723032</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>494</Bottom><Right>418</Right><x>-2</x><y>-2</y><xscreen>4495</xscreen><yscreen>633</yscreen><sizeHorzCX>3290630</sizeHorzCX><sizeHorzCY>922741</sizeHorzCY><sizeVertCX>307467</sizeVertCX><sizeVertCY>723032</sizeVertCY></Rect></Wnd3></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>123</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>125</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>182216</sizeHorzCY><sizeVertCX>204246</sizeVertCX><sizeVertCY>3586006</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
